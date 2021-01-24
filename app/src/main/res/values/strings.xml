@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeTaskFor17</string>
+
+    <!--User-->
+    <string name="user_list_title">User List</string>
+    <string name="user_list_msg_search">Search Github Users</string>
+    <string name="user_list_error_empty">User Not Found</string>
+    <string name="user_list_error_limit">You can try again in a few moments</string>
+</resources>
